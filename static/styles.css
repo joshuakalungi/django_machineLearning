@@ -66,6 +66,16 @@
   }
 }
 
+.home{
+  background:url(https://tse2.mm.bing.net/th?id=OIP.3Eqdiz9v3r4TNAnl8PYhugHaFD&pid=Api&P=0) no-repeat center center;
+  color:#000;
+  background-size:cover;
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+  -ms-background-size:cover;
+}
+
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);

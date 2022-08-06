@@ -24,6 +24,6 @@ urlpatterns = [
     path('contacts/', views.contacts, name='contact'),
     path('operations/', views.operations, name='operations'),
     path('dataCleaning/', views.dataCleaning, name='dataCleaning'),
-    path('missingValues/', views.missingValues, name='missingValues'),
+    path('missingValues/', views.missingValues, name='missing'),
     path('result/', views.result, name='result')
 ]
